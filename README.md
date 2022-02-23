@@ -3,27 +3,25 @@
 
 2022-1-12更新配置文件,新增AX3600最新测试内核5.15，删除冲突及多余的插件
 
-就算不精简插件云编译差不多才2小时左右完成所有的
 
 全能插件版：
 #OpenAppFilter
-#IPv6
-#简单mesh
-#科学ssp（全组件）
+IPv6
+简单mesh
 #smartdns
 #去广告plus—及—Adg广告拦截
 #云音乐
-#流控
-#ttyd
+流控
+ttyd
 #zerotier
-#Turbo ACC
+Turbo ACC
 #访客网络
-#openclash
+openclash
 #jd签到
-#多拨&负载均衡#组播#等等！自行研究！
+多拨&负载均衡#组播#等等！自行研究！
 
 
-适用于AX6和AX3600
+适用于AX3600
 
 本次config文件集成了基本上所有插件！
 
